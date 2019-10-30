@@ -1,4 +1,4 @@
-# UCoCoS-Software-Package
+# UCoCoS Software Package
 The UCoCoS Software package integrates a collection of tools for the analysis and control of complex systems and networks. The analysis tools concerns the detection of oscillatory patterns in networks, the computation of partial synchronization manifolds in delay-coupled networks, as well as the assessment of the robustness of stability of controlled systems against feedback delays and a sampled data implementation of the controller. The synthesis tools allow to design structured controllers, including decentralized and distributed controllers, for large-scale systems and networks with delays. The software was developped in the framework of the project UCoCoS, funded by the European Unions Horizon2020 research and innovation programme under the Marie Sklodowska-Curie Grant Agreement No 675080.
 
 To use the package extract UCoCoS_Package.zip file in one directory, and open the file index.html.
