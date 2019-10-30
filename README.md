@@ -3,7 +3,7 @@ The UCoCoS Software package integrates a collection of tools for the analysis an
 
 The software was developped in the framework of the project UCoCoS, funded by the European Unions Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie Grant Agreement No 675080.
 
-To use the package extract UCoCoS_Package.zip file in one directory, and open the file index.html.
+To use the package extract UCoCoS_Package.zip file in one directory, and open the file index.html. This package is released under the GNU GPL v3.0 license. For complete details see: http://www.gnu.org/licenses/gpl-3.0.html
 
 The package includes the following tools:
  
