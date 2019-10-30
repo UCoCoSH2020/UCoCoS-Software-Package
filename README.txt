@@ -1,4 +1,4 @@
-To use the package extract all files in one directory, and open the file index.html.
+To use the package extract the UCoCoS_Package.zip file in one directory, and open the file index.html.
 
 The package includes the following tools:
  
