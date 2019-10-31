@@ -6,7 +6,7 @@ The software was developped in the framework of the project UCoCoS, funded by th
 
 ### Availability:
 
-To use the package extract [UCoCoS_Package.zip](https://github.com/UCoCoSH2020/UCoCoS-Software-Package/blob/master/UCoCoS_Package.zip) file in one directory, and open the file index.html. This package is released under the GNU GPL v3.0 license. For complete details see [here](http://www.gnu.org/licenses/gpl-3.0.html).
+To use the package extract [UCoCoS_Package.zip](https://github.com/UCoCoSH2020/UCoCoS-Software-Package/blob/master/UCoCoS_Package.zip) file in one directory, and open the file index.html. This package is released under the GNU GPL v3.0 license. For complete details see [here](https://github.com/UCoCoSH2020/UCoCoS-Software-Package/blob/master/LICENSE).
 
 # Contribution of the Early Stage Researchers
 
